@@ -1,4 +1,4 @@
-/* Lughan Ross */
+
 
 void cat(Node *current) ;
 void cd(FileSystem *fs, const char *name) ;

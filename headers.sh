@@ -8,7 +8,7 @@
 # YOU MUST CHANGE THIS TO YOUR NAME BEFORE USING THIS FILE
 # TURNING IN CODE WITH ANOTHER STUDENTS NAME IN IT IS A COAM OFFENSE
 # - Professor Kirby
-readonly AUTHOR_NAME="Lughan Ross"
+readonly AUTHOR_NAME="Royalross"
 
 # do the mystery that professor Kirby did for us
 echo "Creating header files..."

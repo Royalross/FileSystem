@@ -1,4 +1,4 @@
-/* Lughan Ross */
+
 
 void add_child(Node *parent, Node *child) ;
 Node* back_track(Node *node, int levels) ;

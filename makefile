@@ -1,5 +1,4 @@
-# Your name here
-# Lughan Ross
+
 # Makefile for lab 1-4.
 
 # Change the last dependency for each new lab

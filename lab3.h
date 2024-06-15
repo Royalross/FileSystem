@@ -1,4 +1,4 @@
-/* Lughan Ross */
+
 
 void create_files_from_list(FileSystem *fs, const char *file_list) ;
 int has_duplicate_name(Node *current, const char *name) ;
