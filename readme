@@ -1,0 +1,30 @@
+Name: Lughan Ross
+I certify that I completed all of the work myself with no aid from anyone aside from the instructor or the
+undergraduate graders.
+Part 1
+Q1: In class we talking about more of a linked list structure and while a tree structure is similar it is very diffrent. 
+
+Q2: To show a directory has no children, print "Directory is empty."
+
+Q3: Terse insertion/deletion functions are possible but you have to think of it diffrently. We are using a tree so deleting and insert isnt the same. We dont have to worry alot about a node in the middle of a  continues string of nodes.
+
+Part 2
+Q1: Extra commands: search, exit , tree, greet. They improve control,visibility of files and directories and to have fun.
+
+Q2: No additional data structures were used. Existing structures (Node and FileSystem) was good enough. 
+
+Q3: The hierarchical display (tree and driprint) makes it easy to understand file relationships, like typical file systems.
+Part3
+Q1: Lughan Ross
+* The Program starts off with only the root so when you make a directory, you will be placed in the directory. So if you want to make directories connected to the root you will have to call cd .. to head back to root. 
+
+* You will have to run the command with arguments if not you will be given an error message 
+
+* If at anypoint you are lost about where you are run dirprint, if you want to see the whole filesytem run tree command. 
+
+Q2: You will be given a message that you reached your limit.
+
+Q3:
+* To create a test directory, 
+1: run the command $ "mkdir test". The directory will be made then you will be placed in it. You can run it again to make a directory in a directory. or run cd .. then run it agin to make a directoey and the root being the parent.
+Q4: I tell you that it isnt vaild, I tried to make my program have crash resistance. It is my responsibility because I shouldnt make programs that can easily crash.
